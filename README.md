@@ -13,7 +13,7 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer/badge)](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer)
 
 ## Features
-- Probably the world's most popular code for sending email from PHP!
+- Probably the world's most popular code for sending email from PHP "modier cette ligne"!
 - Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
 - Integrated SMTP support – send without a local mail server
 - Send emails with multiple To, CC, BCC, and Reply-to addresses
